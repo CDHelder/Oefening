@@ -31,6 +31,6 @@ namespace HelloWorld
 				Console.WriteLine(message);
 			}
 			Console.ReadLine();
-		}	123123234
+		}	
 	}
 }
